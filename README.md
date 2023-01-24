@@ -84,7 +84,7 @@ full subtracter:
 half subtracter:
 ![image](https://user-images.githubusercontent.com/123469171/214347626-3e5a7ab5-bbde-42ee-9e17-ea899643d51a.png)
 full subtracter:
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/123469171/214347925-8c7ccd65-1679-434d-92b9-c168ddf35788.png)
 
 
 
